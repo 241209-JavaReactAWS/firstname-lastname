@@ -1,4 +1,4 @@
-# Git-repo Acctivity & About-Me Activity
+# Git-repo & About-Me Activity
 
 ##Each partner will create an HTML/CSS-based About-Me page for their partner, including
 ## - A short introduction section about your partner.
