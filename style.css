@@ -16,6 +16,12 @@ body {
        font-size: 2.5rem;
        color: #333;
   }
+
+  p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    color: slateblue;
+  }
   
   
   
@@ -39,7 +45,6 @@ body {
   }
   
   ul {
-    list-style-type: none;
     padding: 0;
   }
   
@@ -50,9 +55,14 @@ body {
     margin: 5px 0;
   }
   
-  li:hover {
+  .true:hover {
     background: #97c332;
     cursor: pointer;
 
+  }
+
+  .lie:hover {
+    background: #651c1c;
+    cursor: pointer;
   }
   
